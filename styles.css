@@ -10,14 +10,14 @@
  
 body {
   background: #585c68;
-  font-size: 12px;
+  font-size: 10pt;
   line-height: 22px;
   color: #555555;
 }
 
 .bold {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
@@ -45,18 +45,16 @@ body {
 }
 
 .resume .resume_left .resume_picture{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     position: relative;
     overflow: hidden; 
-    border-radius: 50%;
+    /* border-radius: 50%; */
     border-color: #7581b8;
     border-width: 5px;
     border-style: solid;
-    margin-left: 40px;
-    margin-right: 10px;
-    margin-top: 10px;
-    margin-bottom: 5px;
+    margin: 0;
+    
 }
 
 .resume .resume_left .resume_picture img{
@@ -113,12 +111,11 @@ body {
 }
 
 .resume .resume_left ul li .icon {
-  width: 35px;
-  height: 35px;
+  width: 25px;
+  height: 25px;
   background: #fff;
   color: #0bb5f4;
   border-radius: 50%;
-  margin-right: 15px;
   font-size: 16px;
   position: relative;
   display: flex;
