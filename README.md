@@ -1,2 +1,7 @@
-# Resume-CV-Design-N19
-How to create the Resume/CV Design using HTML and CSS
+# ResumeJS
+
+I plan first to use just HTML and CSS.
+
+Then eventually I'll be including Javascript.
+
+I want to create my own resume using these technologies.
